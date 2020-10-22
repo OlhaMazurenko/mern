@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "lorem ipsum",
+  "mongoUrl": "mongodb+srv://ol_maz:qwerty12345@cluster0.rtfhd.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
